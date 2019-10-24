@@ -2,7 +2,7 @@
 Synge
 123
 assd
-test-123456
+test-1
 789
 shdhdi
 sdhidjdh
